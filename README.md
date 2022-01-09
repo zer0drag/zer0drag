@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zer0drag
+- 👀 I’m interested in joining the Cardano Developer Community
+- 🌱 I’m currently learning Haskell and Plutus.
+- 💞️ I’m looking to collaborate on Plutus Pioneer Projects
+- 📫 Message me on Discord @zer0drag 
